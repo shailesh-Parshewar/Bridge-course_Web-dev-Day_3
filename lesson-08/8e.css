@@ -1,0 +1,29 @@
+* {
+    font-family: arial;
+}
+p {
+    font-size: 28px;
+    font-weight: 500;
+}
+input {
+    display: block;
+    width: 348px;
+    height: 36px;
+    margin: 4px 0px;
+    padding: 0px 12px;
+    background-color: rgb(238, 238, 238);
+    border: none;
+}
+input:first-of-type {
+    margin-top: -12px;
+}
+button {
+    height: 36px;
+border: none;
+margin: 6px 12px 6px 0px;
+padding: 0px 24px;
+}
+.req-btn {
+    background-color: black;
+    color: white;
+}
