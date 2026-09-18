@@ -1,0 +1,13 @@
+* {
+    font-family: "Montserrat";
+    text-align: center;
+}
+h1 {
+    font-size: 64px;
+}
+p, span {
+    font-size: 24px;
+}
+span {
+    text-decoration: underline;
+}
