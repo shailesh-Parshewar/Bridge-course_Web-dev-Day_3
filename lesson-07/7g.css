@@ -1,0 +1,26 @@
+*{
+    font-family: arial;
+}
+
+img {
+    height: 48px;
+    width: 48px;
+    border-radius: 24px;
+    vertical-align: middle;
+}
+span {
+    vertical-align: middle;
+    color: gray;
+   padding-right: 124px;
+   padding-left: 12px;
+}
+
+button {
+    height: 32px;
+    width: 84px;
+    border-radius: 16px;
+    border: none;
+    background-color: rgb(90, 131, 220);
+    color: white;
+    font-weight: bold;
+}
